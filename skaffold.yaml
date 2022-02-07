@@ -10,5 +10,3 @@ profiles:
       namespace: test
       valuesFiles:
         - helm/project/values.yaml
-        - helm/project/values2.yaml
-        - helm/project/values3.yaml
