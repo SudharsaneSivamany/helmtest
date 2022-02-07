@@ -1,0 +1,2 @@
+NAME: "home-app3"
+IMAGE: "gcr.io/dc-hughes-anthos-migration/myapp:sample"
