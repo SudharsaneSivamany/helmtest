@@ -9,6 +9,6 @@ profiles:
       chartPath: helm/project
       namespace: test
       valuesFilePath:
-      - helm/project/values.yaml
-      - helm/project/values2.yaml
-      - helm/project/values3.yaml
+        - helm/project/values.yaml
+        - helm/project/values2.yaml
+        - helm/project/values3.yaml
