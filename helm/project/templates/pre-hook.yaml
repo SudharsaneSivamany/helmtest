@@ -4,6 +4,7 @@ metadata:
   name: hook-preinstall
   annotations:
     "helm.sh/hook": "pre-install"
+  namespace: test
 spec:
   containers:
   - name: hook1-container
