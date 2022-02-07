@@ -1,0 +1,12 @@
+bases:
+  - ../../base
+
+
+namespace: dev
+patchesJson6902:
+- target:
+    group: ''
+    version: v1
+    kind: Values
+    name: file1
+  path: value_var.yaml
